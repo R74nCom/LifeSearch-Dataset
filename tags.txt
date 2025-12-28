@@ -1,0 +1,293 @@
+albatross: A, B, fly, beak, wing, water, lake, ocean, pond
+alligator: A, R, chomp, crocodile, ouch, water, pond, lake
+alligatorfish: A, F, ocean, water, small
+allosaurus: A, R, dinosaur, extinct, big, egg, hatch
+alpaca: A, M, farm, mountain, wool, spit
+anchovy: A, F, small, ocean, water, pond, lake
+angelfish: A, F, ocean, water, pond, lake
+anglerfish: A, F, ocean, water, pond, lake, weird, ouch, chomp, light, glow
+ant: A, I, smart, egg, hatch, hill, anthill, ant hill, colony, pest, antenna
+anteater: A, M, ant
+antelope: A, M, horn, deer, snort
+aphid: A, I, cattle, antenna
+apple maggot: A, I, maggot, apple, fly, wing, larva, antenna
+armadillo: A, M, desert, shell
+armyworm: A, W, larva
+axolotl: A, AM, ocean, water, pond, lake, weird
+baboon: A, M, primate, smart, monkey
+badger: A, M, city, growl
+barnacle: A, C, ocean, lake, pond, boat, water, pest
+barreleye: A, F, ocean, water, weird, translucent, transparent, spook fish
+bass: A, F, ocean, water, lake, pond
+bat: A, M, fly, fang, vampire, screech, blood
+bear: A, M, grizzly, chomp, ouch, big, cub, roar
+bearded dragon: A, R, lizard, pet, egg, hatch
+beaver: A, M, dam, wood, tree, river, log, ocean, lake, pond
+bedbug: A, I, bed, antenna
+bee: A, I, fly, wing, stripe, striped, honey, hive, beehive, colony, wasp, pollen, honeybee, pollination, pollinate, egg, hatch, pest, antenna, flower
+beefalo: A, M, farm, cattle, buffalo, cow, beef, milk
+bird-of-paradise: A, B, fly, beak, wing, weird, tree
+bird: A, B, fly, tweet, chirp, tree, nest, pet, beak, egg, hatch, small, wing, dinosaur
+blobfish: A, F, ocean, water, pond, lake, weird, fat
+boar: A, M, farm, pig, mud, muddy, dirty, bacon, pork, ham, piglet, oink, hog
+bobcat: A, M, cat, feline, lynx, roar, rawr
+brachiosaurus: A, R, dinosaur, extinct, big, neck, sauropod, egg, hatch
+buffalo: A, M, farm, horn, cattle, milk, calf
+butterfly: A, I, fly, wing, rainbow, flower, antenna, caterpillar, egg, hatch
+caecilian: A, AM, 
+camel: A, M, farm, desert, saddle, hump
+capybara: A, M, rodent, fat
+carabao: A, M, farm, cattle, milk, horn, ox, buffalo, water buffalo
+carpenter ant: A, I, big, ant, smart, egg, hatch, hill, anthill, ant hill, colony, pest, wood, log, antenna
+cat: A, M, feline, meow, purr, hiss, pet, kitty, kitten
+caterpillar: A, I, rainbow, egg, hatch, larva, baby
+catfish: A, F, ocean, water, lake, pond, fat
+cavefish: A, F, water, pond, cave, underground
+centipede: A, OB, leg, antenna, egg, hatch, pest
+chameleon: A, R, rainbow, camouflage
+cheetah: A, M, feline, spot, spotted, fast
+chicken: A, B, farm, chick, fly, wing, beak, egg, hatch, bawk
+chimpanzee: A, M, primate, smart, chimp, monkey
+chinchilla: A, M, rodent, pet, squeak
+chipmunk: A, M, tree, squirrel, small, rodent
+cicada: A, I, tree, pest, fly, wing, loud
+clam: A, MO, shell, ocean, water, lake, pond, pearl, beach
+click beetle: A, I, beetle, antenna, egg, hatch
+clownfish: A, F, ocean, lake, pond, water, stripe, striped
+cockroach: A, I, shell, fly, wing, antenna, egg, hatch
+cod: A, F, ocean, water, pond, lake
+conch: A, MO, ocean, water, beach, shell
+coral: A, P, ocean, water
+cougar: A, M, mountain, lion, mountain lion, feline, cat, panther, catamount, roar, rawr
+cow: A, M, farm, cattle, milk, beef, steak, horn, bell, calf, moo
+cowfish: A, F, ocean, water, pond, lake, weird
+coyote: A, M, city, wolf, canine, howl, bark
+crab: A, C, small, egg, hatch, beach, shell, ocean, water, lake, pond
+crane: A, B, fly, beak, wing, water, lake, pond
+cricket: A, I, pest, fly, wing, loud
+crocodile: A, R, chomp, alligator, ouch, water, pond, lake
+crow: A, B, fly, wing
+cuckoo: A, B, fly, beak, wing, small, tree
+cuttlefish: A, CE, ocean, water, squid
+deer: A, M, antler
+dingo: A, M, canine, bark, woof, ruff, howl
+dinosaur: A, R, extinct, big, loud, chomp, lizard, egg, hatch
+dog: A, M, canine, bark, woof, ruff, pet, doggy, puppy, growl, howl
+dogfish: A, F, shark, ocean, water
+dolphin: A, M, water, ocean, smart
+donkey: A, M, farm, horse, saddle, hee-haw, heehaw, hee haw, neigh
+dove: A, B, wing, fly, pigeon
+duck: A, B, farm, duckling, water, pond, lake, egg, beak, hatch, wing, fly, waterfowl, quack, bill, mallard
+dust mite: A, I, pest, dust, mite, microscopic
+eagle: A, B, america, american, beak, wing, fly
+earthworm: A, W, pest, dirty, underground, nightcrawler
+earwig: A, I, antenna, ear, egg, hatch
+echidna: A, M, egg, hatch, spike, spiky, ouch, hedgehog, weird
+eel: A, F, ocean, water, pond, lake
+electric eel: A, F, shock, electric, electricity, eel, water, ocean, lake, pond
+electric ray: A, F, stingray, string ray, ray, shock, electric, electricity, eel, ocean, water, lake, pond
+elephant: A, M, big, trunk, water, trumpet, tusk, horn
+elk: A, M, deer, wapiti, antler, moose
+ferret: A, M, weasel, pet, dook, small
+fire ant: A, I, ant, smart, egg, hatch, hill, anthill, ant hill, colony, pest, antenna, ouch
+firefly: A, I, glow, light, fly, wing, fire, beetle
+fish: A, F, ocean, water, pet, small, lake, pond, glub, glub glub
+flatfish: A, F, camouflage, ocean, water, lake, pond
+flea: A, I, pest, dog, cat, small, egg, hatch, blood
+flounder: A, F, camouflage, flatfish, ocean, water, lake, pond
+flying fish: A, F, fly, ocean, water, lake, pond
+flying squirrel: A, M, squirrel, chipmunk, tree, fly, wing
+fox: A, M, fennec, snow, snowy
+frog: A, AM, croak, toad, water, pond, lake, pet, egg, hatch
+gecko: A, R, lizard, pet, small, egg, hatch
+gerbil: A, M, rodent, pet, small, squeak
+giant squid: A, CE, squid, big, ocean, water
+giraffe: A, M, neck, long, big, tree
+glass frog: A, AM, lake, pond, frog, transparent, translucent, weird, egg, hatch
+gnat: A, I, fly, wing, pest, mosquito
+goat: A, M, farm, horn, pet, milk, wool, mountain, baa, ba, baaa
+goblin shark: A, F, shark, weird, ocean, water
+goldfish: A, F, pet, glub, glub glub, water
+goose: A, B, farm, water, pond, lake, egg, beak, hatch, wing, fly, waterfowl, quack
+gorilla: A, M, primate, smart, big, monkey, jungle
+grasshopper: A, I, pest, fly, wing, jump
+great white shark: A, F, shark, big, ocean, water
+groundhog: A, M, woodchuck, rodent, underground
+guinea pig: A, M, squeak, rodent, pet, small
+guineafowl: A, B, farm, beak, wing, fly
+hammerhead: A, F, shark, ocean, water
+hamster: A, M, rodent, pet, small, squeak
+hedgehog: A, M, spike, spiky, hurt, ouch, pet, small
+hermit crab: A, C, crab, pet, small, egg, hatch, beach, shell, chirp
+heron: A, B, fly, beak, wing, water, lake, pond
+herring: A, F, ocean, water, lake, pond
+hippopotamus: A, M, water, hippo, growl, chomp, big
+hornet: A, I, fly, wing, stripe, striped, honey, hive, beehive, colony, wasp, pollen, pollination, pollinate, egg, hatch, pest, antenna, flower
+horse: A, M, farm, horsey, horseshoe, saddle, mare, neigh, foal, stallion
+house fly: A, I, fly, wing, pest, maggot, grub, house
+human: A, M, person, people, homosapien, city, smart
+hummingbird: A, B, fly, beak, wing, small, flower, tree
+hyena: A, M, laugh
+iguana: A, R, lizard, egg, hatch
+impala: A, M, deer, antelope, antler
+inchworm: A, W, small, larva, baby, egg, hatch
+isopod: A, C, ocean, water, lake, pond
+jackal: A, M, canine, bark, woof, ruff, howl
+jaguar: A, M, feline, spot, spotted
+jellyfish: A, F, shock, electric, electricity, tentacle
+kangaroo: A, M, jump, australia, wallaby
+killer whale: A, M, dolphin, orca, big, ocean, water
+kingfisher: A, B, fly, beak, wing
+kissing gourami: A, F, kiss, love, ocean, water, lake, pond
+koala: A, M, australia, tree, slow, bear, marsupial
+krill: A, C, shrimp, transparent, translucent, ocean, water, lake, pond
+ladybird: A, I, spotted, ladybug, lady beetle, beetle, luck, lucky, wing, fly
+lamprey: A, F, ocean, water, lake, pond, pest
+leafy sea dragon: A, F, camouflage, leaf, leafy, seaweed, ocean, water, lake, pond
+lemur: A, M, primate, small, monkey
+leopard: A, M, feline, spot, spotted
+liger: A, M, feline, tiger, lion
+lion: A, M, feline, mane
+lizard: A, R, egg, hatch
+llama: A, M, farm, mountain, wool, spit
+lobster: A, C, small, egg, hatch, beach, shell, ocean, water, lake, pond
+locust: A, I, grasshopper, jump, fly, wing, pest
+louse: A, I, lice, hair, head, small, pest, egg, hatch
+lungfish: A, F, ocean, water, fat, lake, pond
+lynx: A, M, feline, cat, bobcat
+mackerel: A, F, ocean, water, lake, pond
+maggot: A, I, fly, house fly, baby, larva, pest, grub, garden
+mammoth: A, M, extinct, elephant, tusk, horn, big, snow, cold, ice, antarctica
+manatee: A, M, ocean, water, sea cow, seacow, fat, dugong
+marten: A, M, weasel, small
+mealworm beetle: A, I, mealworm, beetle, antenna, egg, hatch, pest, fly, wing
+mealworm: A, W, larva, baby, egg, hatch, pest
+megalodon: A, F, extinct, shark, ocean, water
+millipede: A, OB, leg, antenna, long, egg, hatch, pest
+minnow: A, F, ocean, water, pond, lake
+moa: A, B, beak, extinct, big
+mole: A, M, dirty, underground, weird
+mongoose: A, M, 
+monkey: A, M, primate, smart, simian, scream, jungle
+mosquito: A, I, antenna, pest, fly, wing, egg, hatch, blood
+moth: A, I, fly, wing, pest, egg, hatch
+mouse: A, M, small, pet, pest, rat, squeak, cheese, rodent, mice
+mule: A, M, farm, horse, donkey, saddle
+musk deer: A, M, deer, weird, fang
+muskox: A, M, farm, cattle, milk, horn, ox
+mussel: A, MO, shell, beach, ocean, water, lake, pond
+nautilus: A, MO, shell, beach, ocean, water, lake, pond, tentacle
+ocelot: A, M, feline, jungle
+octopus: A, CE, ocean, water, camouflage, ink, spray, tentacle
+okapi: A, M, giraffe
+opossum: A, M, city, trash, garbage, possum, marsupial, pest
+orangutan: A, M, primate, smart, monkey
+ostrich: A, B, farm, wing, beak, flightless bird, fast
+otter: A, M, water, pond, lake, ocean, weasel, sea otter
+owl: A, B, hoot
+ox: A, M, farm, cattle, milk, horn
+oyster: A, MO, shell, ocean, water, lake, pond, pearl, beach
+panda: A, M, china, bear, bamboo
+parakeet: A, B, pet, parrot, wing, fly, egg, hatch
+parrot: A, B, rainbow, fly, beak, wing, tree, jungle
+pelican: A, B, bill, water, ocean, beach, wing, fly
+penguin: A, B, beak, wing, water, cold, snow, ice, ocean, antarctica
+pig: A, M, farm, boar, mud, muddy, dirty, bacon, pork, ham, piglet, pet, oink, hog
+pigeon: A, B, fly, beak, wing, city, tree, dove
+pika: A, M, small, rabbit, bunny, hare
+pink fairy armadillo: A, M, armadillo, desert, shell
+piranha: A, F, ouch, fang, water, ocean, lake, pond
+plankton: A, P, ocean, water, pond, lake, small, microscopic
+platypus: A, M, bill, egg, hatch, water, lake, ocean, pond
+polar bear: A, M, bear, ice, snow, cold, ocean, antarctica, roar, cub
+pony: A, M, farm, horsey, horseshoe, saddle, mare, horse, neigh, foal, stallion
+porcupine: A, M, spike, spiky, hurt, ouch, pet, small
+porpoise: A, M, ocean, water, smart
+portuguese man o' war: A, F, man of war, portuguese, man o' war, ocean, water, beach, weird, transparent, translucent
+potoo: A, B, fly, beak, wing, weird, tree
+prairie dog: A, M, bark
+pterodactyl: A, R, extinct, wing, fly, pterosaur
+pufferfish: A, F, ocean, water, pond, lake, blowfish, expand, shrink, spike, spiky, fugu
+pug: A, M, dog, pet, bark, woof, ruff, doggy, puppy, growl, howl
+purple frog: A, AM, frog, purple, weird, fat, water, pond, lake, egg, hatch
+rabbit: A, M, bunny, carrot, hare, squeak, pet, small, leporid, leporidae
+raccoon: A, M, trash, city, racoon, garbage, robber, mask, fat
+rat: A, M, small, pet, pest, mouse, squeak, cheese, rodent, mice
+raven: A, B, fly, wing
+ray: A, F, ocean, water, lake, pond
+reindeer: A, M, farm, deer, antler, milk, christmas, santa, caribou, cattle
+rhinoceros: A, M, rhino, horn, big, tusk
+rooster: A, B, wing, fly, farm, chicken, chick
+saber-toothed tiger: A, M, feline, extinct
+salamander: A, AM, 
+sandpiper: A, B, fly, beak, wing, beach, sand, water, desert
+scorpion: A, AR, desert, ouch, pinch
+sea cucumber: A, cucumber, ocean, water, pond, lake, expand, shrink
+sea lion: A, M, ocean, water
+sea snail: A, MO, ocean, water, lake, pond, shell, beach, snail, slug, slime, slimy, bug
+sea snake: A, R, snake, ocean, water
+sea urchin: A, water, ocean, pond, lake, spike, spiky, ouch, weird
+seagull: A, B, fly, beak, wing, gull, ocean, lake, pond, water, beach
+seahorse: A, F, ocean, water
+seal: A, M, water, ocean, antarctica
+shark: A, F, ocean, ouch, chomp, water
+sheep: A, M, farm, wool, horn, mutton, lamb, lamb chop, pet, baa, ba, baaa, ewe
+shrew: A, M, mole, small
+shrimp: A, C, ocean, water, lake, pond
+silverfish: A, I, small, pest
+skunk: A, M, badger, smelly, smell, stink, spray, pest
+sloth: A, M, slow, tree
+slug: A, MO, slime, slimy, snail, bug
+snail: A, MO, shell, slime, slimy, slug, bug
+snake: A, R, hiss, sss, ss, s, ssss, sssss
+sparrow: A, B, fly, beak, wing, tree
+spider: A, AR, pest, egg, hatch, web
+spinosaurus: A, R, dinosaur, extinct, spine, theropod, egg, hatch
+sponge: A, P, ocean, water, pond, lake
+squid: A, CE, ocean, water, ink, spray, tentacle
+squirrel: A, M, tree, chipmunk, small, rodent
+starfish: A, sea star, ocean, lake, pond, water, star, beach
+stegosaurus: A, R, dinosaur, extinct, horn, spike, spiky, egg, hatch
+stick bug: A, I, phasmid, stick-bug, stick insect, stick, small, camouflage, tree, weird
+stink bug: A, I, smelly, smell, stink, pest, fly, wing, egg, hatch, antenna
+stoat: A, M, small, weasel
+stork: A, B, fly, beak, wing, water, lake, ocean, pond, baby
+sugar glider: A, M, small, pet, possum, miniature
+swallow: A, B, fly, beak, wing, tree
+swordfish: A, F, spike, spiky, ouch, 
+tadpole: A, AM, frog, baby, water, pond, lake, hatch
+tapir: A, M, pig
+tarantula: A, AR, pest, big
+tardigrade: A, water, ocean, pond, lake, microscopic
+tarsier: A, M, primate, small, monkey
+termite: A, I, wood, tree, pest, fly, wing
+terror bird: A, B, beak, extinct
+tick: A, I, pest, blood, dog, cat, egg, hatch
+tiger: A, M, feline, stripe, striped
+toad: A, AM, croak, frog, water, pond, lake, egg, hatch
+tortoise: A, R, turtle, ocean, water, lake, pond, pet, slow, egg, hatch, beach, shell
+toucan: A, B, fly, beak, wing, rainbow, jungle, tree
+tree frog: A, AM, tree, frog, water, pond, lake, egg, hatch
+triceratops: A, R, dinosaur, extinct, horn, spike, spiky, egg, hatch
+trout: A, F, ocean, water, lake, pond
+tube worm: A, ocean, water, worm
+turkey: A, B, farm, beak, wing, fly
+turtle: A, R, tortoise, ocean, water, lake, pond, pet, slow, egg, hatch, beach, shell
+tyrannosaurus rex: A, R, dinosaur, extinct, ouch, chomp, big, egg, hatch
+velociraptor: A, R, dinosaur, extinct, fast, egg, hatch
+vicuña: A, M, vicuna, llama, vicugna
+walrus: A, M, water, ocean, tusk, horn
+weasel: A, M, small
+weevil: A, I, beetle, egg, hatch, antenna
+whale: A, M, water, ocean, big, sing, ooooo
+wildcat: A, M, cat, meow, hiss, feline
+wireworm: A, W, larva, baby, pest, beetle, egg, hatch, click beetle
+wolf: A, M, dog, canine, bark, howl, woof, growl, ruff
+wombat: A, M, australia, marsupial
+woodpecker: A, B, fly, beak, wing, tree, wood, log
+xenopus: A, AM, water, ocean, pond, lake, frog
+yak: A, M, farm, cattle, horn, milk, calf
+yellowjacket: A, I, fly, wing, stripe, striped, honey, hive, beehive, colony, wasp, pollen, pollination, pollinate, egg, hatch, pest, antenna, flower
+zebra: A, M, stripe, striped, horse
+zebu: A, M, farm, cattle, horn, milk, bell, calf
+zooplankton: A, P, ocean, water, pond, lake, small, plankton, microscopic
